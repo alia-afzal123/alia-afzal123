@@ -48,11 +48,11 @@ My goal is to become a skilled Full Stack Developer and work on impactful real-w
 
 | 🏷️ Project | 📝 Description | 🛠️ Tech |
 |------------|---------------|---------|
-| 🏫 School Management System | Complete school management with student & teacher records | HTML, CSS, JS |
-| 🏋️ Gym Management System | Responsive gym website with membership section | HTML, CSS |
-| 😂 Memes Bar | Social entertainment platform with creative UI | HTML, CSS, JS |
-| 📋 Student Record System | Student data handling with database concepts | HTML, CSS |
-| 🏦 Bank Management System | Banking records & account management logic | HTML, CSS |
+| 🏫 School Management System | Complete school management with student & teacher records | Full Stack |
+| 🏋️ Gym Management System | Responsive gym website with membership section | Full Stack |
+| 😂 Memes Bar | Social entertainment platform with creative UI | Full Stack |
+| 📋 Student Record System | Student data handling with database concepts | DSA |
+| 🏦 Bank Management System | Banking records & account management logic | Database,OOP|
 
 ---
 
