@@ -56,13 +56,6 @@ My goal is to become a skilled Full Stack Developer and work on impactful real-w
 
 ---
 
-## 📊 GitHub Stats
-
-![Alia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alia-afzal123&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alia-afzal123&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌱 Goals
 
